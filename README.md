@@ -53,6 +53,8 @@
   2. 登入 [Streamlit Community Cloud](https://share.streamlit.io/)。
   3. 點擊 "New app"，並從您的 GitHub 選擇此專案的儲存庫與 `app.py` 檔案。
   4. 點擊 "Deploy!"，Streamlit Cloud 將會自動處理相依套件安裝與部署。
+- **線上應用程式網址**：
+  - **[前往 Streamlit Community Cloud 上的應用程式](https://hw10926.streamlit.app/)**
 - **框架備案**：專案中附帶一個 `flask_skeleton.py`，這是一個最小化的 Flask 應用骨架。若未來需求變更，需要將此邏輯移植到傳統後端框架 (如 Flask 或 Django)，此骨架可作為快速開發的起點。
 
 ---
